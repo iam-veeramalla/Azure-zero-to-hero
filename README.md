@@ -1,5 +1,8 @@
 # Azure Zero to Hero Course Syllabus
 
+![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
+
+
 ## Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
 - What is cloud ?
 - What is the difference between public, private and hybrid cloud ?
