@@ -1,9 +1,22 @@
 # Azure Zero to Hero Course Syllabus
 
-## Day 1: Introduction to Azure and Cloud Computing
-- Introduction to Cloud Computing
-- Comparative Analysis: AWS vs Azure
-- Advantages of Azure
+## Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
+- What is cloud ?
+- What is the difference between public, private and hybrid cloud ?
+- What is cloud computing ?
+- Vocabulary
+   - Virtualization
+   - Virtual Machine 
+   - API
+   - Regions
+   - Avalaibility Zones
+   - Scalability
+   - Elasticity
+   - Agility
+   - High Availability 
+   - Fault Tolerance
+   - Disaster Recovery
+   - Load Balancing
 
 ## Day 2: Azure Geographies, Regions, and AZ
 - Understanding Geographies and Regions
