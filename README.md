@@ -13,7 +13,7 @@
    - Virtual Machine 
    - API
    - Regions
-   - Avalaibility Zones
+   - Availability Zones
    - Scalability
    - Elasticity
    - Agility
