@@ -36,4 +36,4 @@ When deploying resources in Azure, it's crucial to consider factors such as:
 
 - **Disaster Recovery Planning:** Leverage region pairing for effective disaster recovery planning.
 
-
+# test
