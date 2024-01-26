@@ -46,7 +46,6 @@
 - Routes and Route Tables
 - Network Security Groups(NSGs)
 - Application Security Groups(ASGs)
-- Demo 
 
 ## Day 6: Advanced Networking Services
 - Introduction to Virtual Network Peering and VNet Gateway
