@@ -48,10 +48,12 @@
 - Application Security Groups(ASGs)
 
 ## Day 6: Advanced Networking Services
-- Introduction to Virtual Network Peering and VNet Gateway
-- Introduction to VPN Gateway
-- Introduction to Azure Load Balancer and Azure App Gateway
-- Introduction to Content Delivery Network(CDN) in Azure
+- Azure App Gateway & WAF
+- Azure Load Balancer
+- Azure DNS
+- Azure Firewall
+- Virtual Network Peering and VNet Gateway
+- VPN Gateway
 
 ## Day 7: Azure Interview Questions (Compute and Networking)
 - Interview Questions on the topics covered till Day 6
@@ -83,7 +85,7 @@
 - Implementing RBAC
 - Best Practices for RBAC
 
-## Day 13: Azure Cloud Watch and Monitoring Services
+## Day 13: Azure Cloud Watch(Monitor) and Monitoring Services
 - Monitoring Overview
 - Setting Up Monitoring in Azure
 
