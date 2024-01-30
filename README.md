@@ -54,18 +54,18 @@
 - Azure Firewall
 - Virtual Network Peering and VNet Gateway
 - VPN Gateway
+  
+## Day 7: Deploying an application behind Firewall on Azure - (PROJECT 1)
+- Practical Hands on video that explains
+- How to set up the networking
+- How to deploy the applcition on Azure VMs with Networking and use bastion.
+- Overview of the setup and troubleshooting.
 
-## Day 7: Azure Interview Questions (Compute and Networking)
+## Day 8: Azure Interview Questions (Compute and Networking)
 - Interview Questions on the topics covered till Day 6
 - Cloud computing concepts
 - Azure Basics
 - Azure Networking
-
-## Day 8: Deploying a two tier application on Azure - (PROJECT 1)
-- Practical Hands on video that explains
-- How to set up the networking for two tier app
-- How to deploy the two tier applcition on Azure VMs with Networking.
-- Overview of the setup and troubleshooting.
 
 ## Day 9: Azure Storage Services
 - Types of Azure Storage Services
