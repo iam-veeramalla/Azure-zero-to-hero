@@ -69,7 +69,7 @@
 
 ## Day 9: Azure Storage Services
 - Types of Azure Storage Services
-- Use Cases and Demonstrations
+- Use Cases
 
 ## Day 10: Command Line Interface for Azure
 - Azure CLI Deep Dive
