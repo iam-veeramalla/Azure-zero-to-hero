@@ -3,9 +3,7 @@
 ### Create resource group if it does not exist 
 
 ```
-az group create \           
-  --name vscode \
-  --location 'Central US'
+az group create --name vscode --location 'Central US'
 ```
 
 ### Create virtual machine
@@ -13,7 +11,5 @@ az group create \
 Switch to the folder where you have the `01-create-vm.json` file available.
 
 ```
-az deployment group create \
-  --resource-group vscode \
-  --template-file 01-create-vm.json
+az deployment group create --resource-group vscode --template-file 01-create-vm.json
 ```
