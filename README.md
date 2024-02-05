@@ -78,6 +78,9 @@
 
 ## Day 11: Azure Resource Manager
 - Azure Resource Manager and Azure Templates Deep Dive
+- Comparison with Bicep
+- Comparison with Azure CLI
+- Comparison with Terraform
 
 ## Day 12: Azure Authentication and Identity Management
 - Authentication Services in Azure
