@@ -82,7 +82,7 @@
 - Comparison with Azure CLI
 - Comparison with Terraform
 
-## Day 12: Azure Authentication and Identity Management
+## Day 12: Azure Identity and Access Management (IAM)
 - Authentication Services in Azure
 - Identity Access Management (IAM)
 - Implementing RBAC
