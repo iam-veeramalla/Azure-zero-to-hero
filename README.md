@@ -88,27 +88,23 @@
 - Implementing RBAC
 - Best Practices for RBAC
 
-## Day 13: Azure Cloud Watch(Monitor) and Monitoring Services
-- Monitoring Overview
-- Setting Up Monitoring in Azure
-
-## Day 14: Introduction to Azure DevOps
+## Day 13: Introduction to Azure DevOps
 - Overview of Azure DevOps
 - Introduction to the Azure DevOps services
 - Setting Up Projects and Repositories
 
-## Day 15: Azure DevOps - CI Setup - (PROJECT 2)
+## Day 14: Azure DevOps - CI Setup - (PROJECT 2)
 - Implementing Continuous Integration (CI)
 
-## Day 16: Azure DevOps - CD Setup - (PROJECT 3)
+## Day 15: Azure DevOps - CD Setup - (PROJECT 3)
 - Implementing Continuous Deployment (CD)
 
-## Day 17: Azure Kubernetes Services(AKS Deep Dive) - (PROJECT 4)
+## Day 16: Azure Kubernetes Services(AKS Deep Dive) - (PROJECT 4)
 - Hands on sessions on AKS
 - Deploying applciation to AKS
 - Expose the application with Ingress configuration on AKS
 
-## Day 18: Deploying a Three Tier architecture E-commerce (8 Services, 2 Databases) on AKS - (PROJECT 5)
+## Day 17: Deploying a Three Tier architecture E-commerce (8 Services, 2 Databases) on AKS - (PROJECT 5)
 - Understand what is three tier architecuture
 - How different services connect to each other in three tier architecture
 - How to create Dockerfiles for each service ?
@@ -116,9 +112,13 @@
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
 
-## Day 19: Azure DevOps Interview Questions
+## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
 - Advanced level Azure DevOps Interview Q&A
+
+## Day 19: Azure Cloud Watch(Monitor) and Monitoring Services
+- Monitoring Overview
+- Setting Up Monitoring in Azure
 
 ## Day 20: Azure Key Vault
 - Secrets Management with Key Vault
