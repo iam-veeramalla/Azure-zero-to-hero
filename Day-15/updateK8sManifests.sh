@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# Set the repository URL
-REPO_URL="<repository_url>"
+set -x
 
-# Set the personal access token
-ACCESS_TOKEN="<your_access_token>"
+# Set the repository URL
+REPO_URL="https://<ACCESS-TOKEN>@dev.azure.com/helpdevopsaspirants/voting-app/_git/voting-app"
 
 # Clone the git repository into the /tmp directory
 git clone "$REPO_URL" /tmp/temp_repo
@@ -14,7 +13,7 @@ cd /tmp/temp_repo
 
 # Make changes to the Kubernetes manifest file(s)
 # For example, let's say you want to change the image tag in a deployment.yaml file
-sed -i "s|image:[^$]*|abhishekazurecicd.azurecr.io/$2:$3|g" $1-deployment.yaml
+sed -i "s|image:.*|image: <CONTIANER-REGISTRY-NAME>/$2:$3|g" k8s-specifications/$1-deployment.yaml
 
 # Add the modified files
 git add .
