@@ -124,6 +124,8 @@
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
 
+![Screenshot 2024-02-16 at 1 43 25 PM](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/0623a010-d8f1-4632-abce-d06f5755b1fa)
+
 ## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
 - Advanced level Azure DevOps Interview Q&A
