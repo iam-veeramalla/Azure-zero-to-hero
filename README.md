@@ -137,6 +137,7 @@
 ## Day 20: Azure Key Vault
 - Secrets Management with Key Vault
 - Security Best Practices
+- **PROJECT** - Integrate Azure Keyvault with Secrets Store CSI Driver
 
 ## Day 21: Azure Serverless
 - Understanding Azure Serverless Services
