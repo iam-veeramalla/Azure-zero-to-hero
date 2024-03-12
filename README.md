@@ -143,19 +143,18 @@
 - Understanding Azure Serverless Services
 - Going Serverless with Azure
 
-## Day 22: Cloud Management Strategies for Azure - (PROJECT 5)
-- Cost Optimization
-- Scaling and Performance Optimization
+## Day 22: Event Driven Serverless - (PROJECT 5)
+- Create Azure Functions that are triggered by Azure Blob creation
 
-## Day 23: Complicance on Azure  - (PROJECT 6)
-- Azure Resource Tags
-- Using the Serverless Functions to implement the compliance requirements on Azure
-
-## Day 24: Manage Azure Resources using Terraform - (PROJECT 7)
+## Day 23: Manage Azure Resources using Terraform - (PROJECT 7)
 - How to connect Azure with Terraform
 - How to create resources on Azure with Terraform
 - State file management of Terraform in Azure
 - Best Practices
+
+## Day 24: Azure DevOps Resume preparation for Freshers and Experienced
+- How to create an impressive resume on Azure DevOps
+- How to add projects to the Resume
 
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
